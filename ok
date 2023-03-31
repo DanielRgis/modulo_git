@@ -1,0 +1,38 @@
+[33mcommit b2f6dad1bbfbc8580e6e33d7c581ac305d366068[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Daniel Regis <danielregisrj@gmail.com>
+Date:   Fri Mar 31 08:36:23 2023 -0300
+
+    inclusão de changelog.md
+
+ Changelog.md | 10 [32m++++++++++[m
+ 1 file changed, 10 insertions(+)
+
+[33mcommit 044488613e053350dee918249cf5ed7fb188adb0[m
+Author: Daniel Regis <danielregisrj@gmail.com>
+Date:   Fri Mar 31 08:28:58 2023 -0300
+
+    colocando espaço no final da frase no arquivo2.txt
+
+ arquivo2.txt | Bin [31m34[m -> [32m36[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit a4762df2c5c1d5bc2bb9eb7bafb2ff3fec9f108f[m
+Author: Daniel Regis <danielregisrj@gmail.com>
+Date:   Fri Mar 31 08:28:06 2023 -0300
+
+    Alterando o conteudo de arquivo2.txt
+
+ arquivo2.txt | Bin [31m28[m -> [32m34[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 85482115f1fc437cf175781d743f8dca8bcb97e9[m
+Author: Daniel Regis <danielregisrj@gmail.com>
+Date:   Fri Mar 31 08:26:15 2023 -0300
+
+    inclusão de novos arquivos
+    
+    inclusão dos arquivos: arquivo.txt e arquivo2.txt
+
+ arquivo.txt  | Bin [31m0[m -> [32m24[m bytes
+ arquivo2.txt | Bin [31m0[m -> [32m28[m bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
